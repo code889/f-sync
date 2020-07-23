@@ -66,3 +66,18 @@
 #### 10. 目录上传
     获取所有文件和目录
     递归上传目录
+#### 11. 使用方式
+    1. 客户端
+     ./a.out -m client -c conf-path
+     设置远程服务地址
+     set host
+     设置远程服务端口
+     set port
+     设置目标目录
+     set remote
+     设置本地目录
+     set local
+     
+    2. 服务端
+    ./a.out -m server
+    
