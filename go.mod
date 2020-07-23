@@ -1,4 +1,4 @@
-module f-sync
+module github.com/code889/f-sync
 
 go 1.13
 
